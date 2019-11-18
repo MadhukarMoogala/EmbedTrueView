@@ -13,11 +13,11 @@
 
    
 
-   ![DLLRegisterServer](images\DLLRegisterServer.JPG)
+   ![DLLRegisterServer](images/DLLRegisterServer.JPG)
 
 5. We will use `aximp`  this ActiveX Control Importer converts type definitions in a COM type library for an ActiveX control into a Windows Forms control. 
 
-![aximp](images\aximp.JPG)
+![aximp](images/aximp.JPG)
 
 6. Clone the project.
 
